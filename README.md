@@ -1,7 +1,7 @@
 :computer:
 # SumoCareerChallenge 
 Built for Sumo
-[Web Page Built for the Challenge](https://acourtney2015.github.io/SumoCareerChallenge/) 
+[goto Web Page Built for the Challenge click here](https://acourtney2015.github.io/SumoCareerChallenge/) 
 
 :bar_chart: 
 Machine learning component built using a Two Class Decision Tree Algorithm applied to the supplied data

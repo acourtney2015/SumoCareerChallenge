@@ -1,4 +1,5 @@
-# SumoCareerChallenge :computer
+:computer:
+# SumoCareerChallenge 
 Built for Sumo 
-Machine learning component is a Two Class Decision Tree
+:data: Machine learning component is a Two Class Decision Tree
 ![]()
